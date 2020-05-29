@@ -5,7 +5,7 @@ This project is a part of Udacity Nanodegree in Programming for Data Science wit
 
 The Sakila Database holds information about a company that rents movie DVDs. For this project, I queryed the database to gain an understanding of the customer base, such as what the patterns in movie watching are across different customer groups, how they compare on payment earnings, and how the stores compare in their performance. 
 
-In this project, I exerted joins, with (Common Table Expressions (CTE)), aggregations and window statements.  
+In this project, I exerted joins, subqueries and Common Table Expressions (CTE), aggregations and window statements.  
 
 
 ### Business Questions
